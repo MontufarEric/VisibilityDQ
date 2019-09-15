@@ -1,0 +1,2 @@
+# VisibilityGraph
+Visibility graph generator
